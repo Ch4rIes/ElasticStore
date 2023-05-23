@@ -12,10 +12,10 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/microservices" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/notification-service" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/microservices" />
+            <option value="$PROJECT_DIR$/notification-service" />
           </set>
         </option>
       </GradleProjectSettings>
